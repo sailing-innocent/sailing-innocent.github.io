@@ -1,0 +1,8 @@
+{
+  "name": "sailing-innocent.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github-si:sailing-innocent/sailing-innocent.github.io.git",
+  "author": "sailing-innocent <sailing-innocent@foxmail.com>",
+  "license": "MIT"
+}
